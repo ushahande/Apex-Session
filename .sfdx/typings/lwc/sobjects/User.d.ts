@@ -323,7 +323,7 @@ declare module "@salesforce/schema/User.UserPreferencesDisableAllFeedsEmail" {
   export default UserPreferencesDisableAllFeedsEmail;
 }
 declare module "@salesforce/schema/User.UserPreferencesDisableFollowersEmail" {
-  const UserPreferencesDisableFollowersEmail:boolean;
+  const UserPreferencesDisableFollowersEmail1:boolean;
   export default UserPreferencesDisableFollowersEmail;
 }
 declare module "@salesforce/schema/User.UserPreferencesDisableProfilePostEmail" {
